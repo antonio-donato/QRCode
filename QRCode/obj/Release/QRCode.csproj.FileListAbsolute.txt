@@ -1,0 +1,14 @@
+D:\Github_repository\QRCode\QRCode\bin\Release\QRCode.exe.config
+D:\Github_repository\QRCode\QRCode\bin\Release\QRCode.exe
+D:\Github_repository\QRCode\QRCode\bin\Release\QRCode.pdb
+D:\Github_repository\QRCode\QRCode\bin\Release\KeepAutomation.Barcode.Windows.dll
+D:\Github_repository\QRCode\QRCode\obj\Release\MainWindow.g.cs
+D:\Github_repository\QRCode\QRCode\obj\Release\App.g.cs
+D:\Github_repository\QRCode\QRCode\obj\Release\QRCode_MarkupCompile.cache
+D:\Github_repository\QRCode\QRCode\obj\Release\QRCode_MarkupCompile.lref
+D:\Github_repository\QRCode\QRCode\obj\Release\MainWindow.baml
+D:\Github_repository\QRCode\QRCode\obj\Release\QRCode.g.resources
+D:\Github_repository\QRCode\QRCode\obj\Release\QRCode.Properties.Resources.resources
+D:\Github_repository\QRCode\QRCode\obj\Release\QRCode.csproj.GenerateResource.Cache
+D:\Github_repository\QRCode\QRCode\obj\Release\QRCode.exe
+D:\Github_repository\QRCode\QRCode\obj\Release\QRCode.pdb
